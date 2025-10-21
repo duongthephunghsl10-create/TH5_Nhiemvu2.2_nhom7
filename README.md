@@ -3,7 +3,7 @@
 Tạo một video ngắn (khoảng 30 giây) giới thiệu lợi ích của công nghệ số, sử dụng tài liệu miễn phí bản quyền.
  2. Thông tin về Video
 Tên file video: /VIDEO_DOWNLOAD_1761033058107_1761033204873.mp4
-Kích thước file:24,14 MB(Đã đạt yêu cầu dưới 50MB)
+Kích thước file:12,43MB(Đã đạt yêu cầu dưới 50MB)
 Phần mềm tạo video:CapCut
 3. Ghi chú Nguồn Tài liệu (Attribution)
 Video tạo bởi CapCut , sử dụng tài liệu hình ảnh và âm thanh từ 
